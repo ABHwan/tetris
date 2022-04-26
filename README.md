@@ -6,3 +6,7 @@
 4. Mac : cmd+L, cmd+O and cmd+L, cmd+C
 5. Window : F1 or ctrl+shift+P 를 누른 후
 6. Live Server: Open With Live Server 실행.
+7. firebase login
+8. firebase init
+9. firebase serve
+10. firebase deploy --only hosting
